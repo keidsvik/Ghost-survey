@@ -1,0 +1,13 @@
+
+.image {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+#notdead, #under-20 {
+  display: none;
+}
+
+h5 {
+  font-style: italic;
+}
